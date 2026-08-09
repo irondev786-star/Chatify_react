@@ -5,7 +5,7 @@ import API_URL from "./backend_Url";
 import { useNavigate } from "react-router-dom";
 import { io } from "socket.io-client";
 import { Link } from "react-router-dom";
-import ImagePicker from "./Dp";
+
 
 import "../css/home_header.css";
 import "../css/chat_box.css";
